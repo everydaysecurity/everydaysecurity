@@ -4,4 +4,4 @@ title: Encryption
 permalink: /encryption/
 ---
 
-This will be encryption page.
+We are gonna just change something.
