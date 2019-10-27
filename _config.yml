@@ -1,4 +1,4 @@
-title: Living Peacefully
+title: Everyday Security
 author: NCSU CSC
 email: everydaysecurit@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -43,10 +43,10 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - IntimatePartnerViolence.md
- - TrackingApp.md
- - Difficulties.md
- - WhatToDo.md
+ - PublicWiFi.md
+ - PersonalVPN.md
+ - PasswordManager.md
+ - Encryption.md
 
 # Build settings
 theme: minima
