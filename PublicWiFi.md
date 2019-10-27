@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Public Wi-Fi
-permalink: /intimatepartnervoilence/
+permalink: /publicwifi/
 ---
 This will be the public wifi page.

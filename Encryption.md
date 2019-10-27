@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Encryption
-permalink: /difficulties/
+permalink: /encryption/
 ---
 
 This will be encryption page.
