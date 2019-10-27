@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Personal VPN
-permalink: /trackingapp/
+permalink: /personalvpn/
 ---
 This would be the personal vpn page.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PasswordManager
-permalink: /whattodo/
+permalink: /passwordmanager/
 ---
 
 This will be the password manager page
