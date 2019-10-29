@@ -6,7 +6,7 @@ permalink: /personalvpn/
 <h2>What is VPN?</h2>
 A VPN (Virtual Private Network) is a service that encrypts your internet traffic and protects your online identity.
 
-<h2>Whyd do we need VPN?</h2>
+<h2>Why do we need VPN?</h2>
 When we access a website on the internet, we started by connecting to our internet service provider (ISP). They redirect us to any website that we wish to visit. All the internet traffic passes through ISP’s servers, which means they can log everything we do online. Then, they can sell this history to advertisers or other third parties. And it can be dangerous sometimes.
 
 <h2>How does VPN work?</h2>
