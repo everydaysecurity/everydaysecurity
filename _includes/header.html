@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <img src="https://brand.ncsu.edu/img/downloads/logo-07.jpg" alt="{{ main.everydaysecurity | default: everydaysecurity.main | default: everydaysecurity.github.everydaysecurity }}" class="everydaysecurity" width="240" height="120" style="float:left"/>
-    <a class="site-title" style="font-size:80px" rel="author" href="{{ / | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" style="font-size:50px" rel="author" href="{{ / | relative_url }}">{{ site.title | escape }}</a>
     <h2 class="everydaysecurity">{{ page.description | default: Our site is the best baby | default: Yee Yee }}</h2>
 
     {%- if titles_size > 0 -%}
