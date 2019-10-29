@@ -11,16 +11,16 @@ Approximately <strong>24.7%</strong> of Wi-Fi hotspots in the world do not use a
 Airport, restaurant, hotel, etc.
 
 <h2>Why it can be dangerous?</h2>
-<li>The biggest threat to free Wi-Fi security is the ability for the hacker to position himself between you and the connection point. </li>
-<li>Fake public Wi-Fi (very similar name, but fake)</li>
-<li>Possibly contains Malware</li>
-<li>Without password means unencrypted.</li>
-<li>When it comes to “personal” WPA2 attacks, the situation is similar to that of WPA and mostly depends on the strength of the password set by the hotspot owner.</li>
+* The biggest threat to free Wi-Fi security is the ability for the hacker to position himself between you and the connection point.
+* Fake public Wi-Fi (very similar name, but fake)
+* Possibly contains Malware
+* Without password means unencrypted.
+* When it comes to “personal” WPA2 attacks, the situation is similar to that of WPA and mostly depends on the strength of the password set by the hotspot owner.
 
 <h2>What can we do to protect ourselves?</h2>
-<li>Ask employee what the actual Wi-Fi is and what is the password.</li>
-<li>When connect to public Wi-Fi, have the file sharing system turn off.--- Otherwise, hackers can distribute malware to you.</li>
-<li>When connecting to public Wi-Fi, connect a <a href:"https://everydaysecurity.github.io/everydaysecurity/personalvpn/">VPN (Virtual Private Network)</a> first. This will encrypt message.</li>
-<li>Log out of any opened account.</li>
-<li>Turn off auto-connect to Wi-Fi. --- especially laptop.</li>
-<li>Do <strong>NOT</strong> log into financial accounts</li>
+* Ask employee what the actual Wi-Fi is and what is the password.
+* When connect to public Wi-Fi, have the file sharing system turn off.--- Otherwise, hackers can distribute malware to you.
+* When connecting to public Wi-Fi, connect a [VPN (Virtual Private Network)](https://everydaysecurity.github.io/everydaysecurity/personalvpn/) first. This will encrypt message.
+* Log out of any opened account.
+* Turn off auto-connect to Wi-Fi. --- especially laptop.
+* Do <strong>NOT</strong> log into financial accounts

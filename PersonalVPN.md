@@ -10,11 +10,11 @@ A VPN (Virtual Private Network) is a service that encrypts your internet traffic
 When we access a website on the internet, we started by connecting to our internet service provider (ISP). They redirect us to any website that we wish to visit. All the internet traffic passes through ISP’s servers, which means they can log everything we do online. Then, they can sell this history to advertisers or other third parties. And it can be dangerous sometimes.
 
 <h2>How does VPN work?</h2>
-<li>When you send information online, it disassemble into small packet.</li>
-<li>After connecting to VPN, it will create an outer layer surrounding the packets.</li>
-<li>Then using encryption protocol, the information get encrypted.</li>
-<li>It will then carry the information to the VPN server, which means your IP address will not be showed.</li>
-<li>Finally, it gets to the server you requested, and receive information you need.</li>
+1. When you send information online, it disassemble into small packet.
+2. After connecting to VPN, it will create an outer layer surrounding the packets.
+1. Then using encryption protocol, the information get encrypted.
+1. It will then carry the information to the VPN server, which means your IP address will not be showed.
+1. Finally, it gets to the server you requested, and receive information you need.
 
 <h2>Why does it has risks and what can we do to prevent it?</h2>
 There are free VPNs out there in the market and they may “share your data with advertisers, or even share your bandwidth with paying customers, leaving your data and connection exposed. 
