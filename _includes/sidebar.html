@@ -1,8 +1,8 @@
 <div id="navigation">
-  <ul class="nav sidenav">
+  <ul class="nav sidenav" style="background-color:#CC0000;">
     <div class="sidebar">
       {%- if titles_size > 0 -%}
-          <div class="trigger" style="background-color:#CC0000;">
+          <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
