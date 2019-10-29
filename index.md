@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Everyday Security: Cybersecurity Education for K-120
+title: Cybersecurity Education for K-120
 image: nc_state.jpg
 ---
-### One citizen. One human error. One <storng>nation</strong> impacted.
+### One citizen. One human error. One **nation** impacted.
 
 An estimated <strong>80%</strong> of successful breaches occur because people unintentionally make a mistake or act insecurely.
 
