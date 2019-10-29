@@ -11,7 +11,7 @@ When we access a website on the internet, we started by connecting to our intern
 
 <h2>How does VPN work?</h2>
 1. When you send information online, it disassemble into small packet.
-2. After connecting to VPN, it will create an outer layer surrounding the packets.
+1. After connecting to VPN, it will create an outer layer surrounding the packets.
 1. Then using encryption protocol, the information get encrypted.
 1. It will then carry the information to the VPN server, which means your IP address will not be showed.
 1. Finally, it gets to the server you requested, and receive information you need.
