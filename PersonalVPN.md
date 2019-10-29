@@ -17,3 +17,7 @@ When we access a website on the internet, we started by connecting to our intern
 <li>Finally, it gets to the server you requested, and receive information you need.</li>
 
 <h2>Why does it has risks and what can we do to prevent it?</h2>
+There are free VPNs out there in the market and they may “share your data with advertisers, or even share your bandwidth with paying customers, leaving your data and connection exposed. 
+It is very possible those free VPN contains malware. <strong>38%</strong> of VPNs showed signs of infection. Most free VPNs make profit by using advertisement and most of the malware is related to advertisement.
+Therefore, it is important to us to <strong>check the VPN privacy statement</strong> before using them. 
+For example, is it anonymous? Is it zero-logging? Is the protocol method up-to-date? Where are the servers located?
