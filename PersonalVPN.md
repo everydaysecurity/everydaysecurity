@@ -3,5 +3,17 @@ layout: page
 title: Personal VPN
 permalink: /personalvpn/
 ---
+<h2>What is VPN?</h2>
+A VPN (Virtual Private Network) is a service that encrypts your internet traffic and protects your online identity.
 
-This would be the personal vpn page.
+<h2>Whyd do we need VPN?</h2>
+When we access a website on the internet, we started by connecting to our internet service provider (ISP). They redirect us to any website that we wish to visit. All the internet traffic passes through ISP’s servers, which means they can log everything we do online. Then, they can sell this history to advertisers or other third parties. And it can be dangerous sometimes.
+
+<h2>How does VPN work?</h2>
+<li>When you send information online, it disassemble into small packet.</li>
+<li>After connecting to VPN, it will create an outer layer surrounding the packets.</li>
+<li>Then using encryption protocol, the information get encrypted.</li>
+<li>It will then carry the information to the VPN server, which means your IP address will not be showed.</li>
+<li>Finally, it gets to the server you requested, and receive information you need.</li>
+
+<h2>Why does it has risks and what can we do to prevent it?</h2>
