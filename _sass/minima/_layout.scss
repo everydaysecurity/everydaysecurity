@@ -304,7 +304,7 @@
 /**
 * Try to add a hover effect to sidebar
 */
-.sidebar:hover {
+#navigation a:hover {
   background-color: #cc0000;
   transition:0.5s;
 }
