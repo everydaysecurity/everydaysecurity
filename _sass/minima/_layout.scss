@@ -301,10 +301,14 @@
   padding-top: 16px;
 }
 
+.sidebar a {
+  color:white;
+  display: block;
+}
 /**
 * Try to add a hover effect to sidebar
 */
-#navigation a:hover {
+.sidebar a:hover {
   background-color: #cc0000;
   transition:0.5s;
 }
