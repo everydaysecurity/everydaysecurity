@@ -301,6 +301,15 @@
   padding-top: 16px;
 }
 
+/**
+* Try to add a hover effect to sidebar
+*/
+.sidebar:hover {
+  background-color: #cc0000;
+  transition:0.5s;
+  color: white;
+}
+
 
 /**
  * Grid helpers
