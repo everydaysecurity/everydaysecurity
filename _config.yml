@@ -46,6 +46,7 @@ header_pages:
  - PersonalVPN.md
  - PasswordManager.md
  - Encryption.md
+ - ChipAndPin.md
 
 # Build settings
 theme: minima
