@@ -302,13 +302,15 @@
 }
 
 .sidebar a {
-  color:white;
+  
   display: block;
+  text-decoration: none; /* Remove underline */
 }
 /**
 * Try to add a hover effect to sidebar
 */
 .sidebar a:hover {
+  color:white;
   background-color: #cc0000;
   transition:0.5s;
 }
