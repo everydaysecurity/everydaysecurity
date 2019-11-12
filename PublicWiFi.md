@@ -26,4 +26,4 @@ Airport, restaurant, hotel, etc.
 * Turn off auto-connect to Wi-Fi. --- especially laptop.
 * Do <strong>NOT</strong> log into financial accounts
 
-[![Public Wi-Fi video]({public_wifi-video})]({https://www.youtube.com/watch?v=wpMCEOakAl8&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=2&t=0s} "Public Wi-Fi")
+[![Public Wi-Fi](https://i.ibb.co/dJTpVfM/https-i-ytimg-com-vi-wp-MCEOak-Al8-maxresdefault.jpg)](https://www.youtube.com/watch?v=wpMCEOakAl8&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=2&t=0s "Public Wi-Fi")
