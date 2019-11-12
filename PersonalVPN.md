@@ -3,6 +3,7 @@ layout: page
 title: Personal VPN
 permalink: /personalvpn/
 ---
+![Personal VPN](vpn.jpg)
 <h2>What is VPN?</h2>
 A VPN (Virtual Private Network) is a service that encrypts your internet traffic and protects your online identity.
 

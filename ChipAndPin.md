@@ -3,6 +3,7 @@ layout: page
 title: Chip-and-pin credit card
 permalink: /chipandpin/
 ---
+![Chip-and-PIN credit card](chip_and_pin.jpg)
 <h2>What is traditional magnetic stripe credit card?</h2>
 A magnetic stripe card is any type of card that contains data embedded in a stripe composed of iron particles in plastic film. This might be good for gift cards, loyalty cards, and membership cards. 
 Since the information is stored statically, it will always be there in the magnetic stripe. That's why this method is **not** secure!
