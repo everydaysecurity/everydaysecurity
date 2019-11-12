@@ -29,6 +29,7 @@
 }
 
 .site-title a {
+  display: block;
   text-decoration: none; /* Remove underline */
   color: white;
 }
@@ -36,6 +37,7 @@
 * Try to add a hover effect to sidebar
 */
 .site-title a:hover {
+  display: block;
   color: white;
   transition: 0.5s;
   text-decoration: none; /* Remove underline */
