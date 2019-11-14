@@ -28,6 +28,22 @@
   }
 }
 
+.site-title a {
+  display: block;
+  text-decoration: none; /* Remove underline */
+  color: white;
+}
+/**
+* Try to add a hover effect to sidebar
+*/
+.site-title a:hover {
+  display: block;
+  color: white;
+  transition: 0.5s;
+  text-decoration: none; /* Remove underline */
+}
+
+
 .site-nav {
   position: absolute;
   top: 9px;
@@ -305,12 +321,15 @@
   
   display: block;
   text-decoration: none; /* Remove underline */
+  color: white;
+  transition:0.5s;
 }
 /**
 * Try to add a hover effect to sidebar
 */
 .sidebar a:hover {
-  color:white;
+  color: white;
+  transition: 0.5s;
   background-color: #cc0000;
   transition:0.5s;
   text-decoration: none; /* Remove underline */
