@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PasswordManager
+title: Password Manager
 permalink: /passwordmanager/
 ---
 
