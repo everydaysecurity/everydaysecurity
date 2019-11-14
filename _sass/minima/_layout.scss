@@ -15,7 +15,7 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   letter-spacing: -1px;
-  margin-left: 50px;
+  margin-left: 250px;
   float: left;
 
   @include media-query($on-palm) {
@@ -311,7 +311,7 @@
   width: 180px;
   position: fixed;
   z-index: 1;
-  margin-top: -20px;
+  margin-top: -100px;
   margin-left: -30px;
   background-color: #cc0000;
   overflow-x: hidden;
@@ -326,11 +326,15 @@
   text-decoration: none; /* Remove underline */
   transition: 0.5s;
 }
+
+.sidebar a.active {
+  background-color: #424242;
+}
 /**
 * Try to add a hover effect to sidebar
 */
-.sidebar a:hover {
-  color: black;
+.sidebar a:hover:not(.active) {
+  color: #424242;
   transition: 0.5s;
   background-color: #fdfdfd;
   /*transition:0.5s;*/
