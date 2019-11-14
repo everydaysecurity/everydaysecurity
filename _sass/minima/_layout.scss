@@ -320,11 +320,10 @@
 }
 
 .sidebar a {
-  
-  display: block;
-  padding: 1px 100px;
-  text-decoration: none; /* Remove underline */
   color: black;
+  display: block;
+  padding: -30px;
+  text-decoration: none; /* Remove underline */
   transition:0.5s;
 }
 /**
