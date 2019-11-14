@@ -139,6 +139,7 @@
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
+  margin-left: 200px;
   padding: $spacing-unit 0;
 }
 
@@ -306,15 +307,16 @@
 
 /* Style the sidebar - fixed full height */
 .sidebar {
-  height: 60%;
-  width: 160px;
+  height: 100%;
+  width: 180px;
   position: fixed;
   z-index: 1;
-  top: 10;
-  left: 10;
-  background-color: #fdfdfd;
+  margin-top: -20px;
+  margin-left: -30px;
+  background-color: #cc0000;
   overflow-x: hidden;
   padding-top: 16px;
+  padding-left: 20px;
 }
 
 .sidebar a {
@@ -328,9 +330,9 @@
 * Try to add a hover effect to sidebar
 */
 .sidebar a:hover {
-  color: white;
+  color: black;
   transition: 0.5s;
-  background-color: #cc0000;
+  background-color: #fdfdfd;
   transition:0.5s;
   text-decoration: none; /* Remove underline */
 }
