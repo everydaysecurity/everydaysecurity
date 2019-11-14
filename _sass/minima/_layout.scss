@@ -2,13 +2,13 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
+  border-top: 5px solid $white;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 4;
 
   // Positioning context for the mobile navigation icon
-  position: fixed;
+  position: relative;
 }
 
 .site-title {
@@ -311,7 +311,7 @@
   width: 180px;
   position: fixed;
   z-index: 1;
-  margin-top: -112px;
+  margin-top: -117px;
   margin-left: -30px;
   background-color: #cc0000;
   overflow-x: hidden;
