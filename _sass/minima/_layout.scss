@@ -8,7 +8,7 @@
   line-height: $base-line-height * $base-font-size * 4;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
 }
 
 .site-title {
@@ -311,7 +311,7 @@
   width: 180px;
   position: fixed;
   z-index: 1;
-  margin-top: -117px;
+  margin-top: -112px;
   margin-left: -30px;
   background-color: #cc0000;
   overflow-x: hidden;
