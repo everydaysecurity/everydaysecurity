@@ -3,7 +3,7 @@ layout: page
 title: Public Wi-Fi
 permalink: /publicwifi/
 ---
-![Public Wi-Fi](public_wifi.jpg)
+![Public Wi-Fi](/pic/public_wifi.jpg)
 <h2>How does Wi-Fi work?</h2>
 Wi-Fi uses radio waves to provide network connectivity. The computer should include a wireless adapter that will translate data sent into a radio signal. This same signal will be transmitted, via an antenna, to a decoder known as the router. Once decoded, the data will be sent to the internet through a wired Ethernet connection. As the wireless network works as a two-way traffic, the data received from the internet will also pass through the router to be coded into a radio signal that will be received by the computer’s wireless adapter.
 Approximately **24.7%** of Wi-Fi hotspots in the world do not use any encryption at all.
