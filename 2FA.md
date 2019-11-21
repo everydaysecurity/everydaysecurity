@@ -21,20 +21,25 @@ This is a direct way of interaction with a user’s phone. After getting a usern
 However, this method is considered the least secure way for 2FA. If you are using a low-risk online activity, this method can be all you need. On the other hand, for account that store your personal information like utility companies, banks, or email accounts, this is not secure enough.
 
 There are ways to intercept SMS messages in transit. This can lead to reset password of an account, which causes hackers get into your account. There was a [Bitcoin Wallet attack](https://www.youtube.com/watch?v=R9rDQU7eGAs) using this method, and it is mind-blowing. 
+
 **Example** --- TicketMaster
 ![SMS-based 2FA](/pic/smsCode.jpg)
 	
 **Software tokens for 2FA**
 This is the most popular form of 2FA and is better than SMS-based method. Users need to download and install a 2FA app on their phone or tablet. At sign-in process, after enter username and password, the app should prompt a time-based, one-time passcode (TOTP). Normally, this code is valid for one minute. The user can then enter the code into the site and get access. This will reduce the chance for hacker interception. 
+
 **Example** --- NCSU Duo System
 ![Software-based 2FA](/pic/Duo_push.jpg)
 ![Software-based 2FA, token](/pic/token.jpg)
 
 **Push Notification 2FA**
 For the convenience of use, push notification method is getting more popular. It’s non-password authentication with no codes to enter, and no additional interaction required. Website will just send user a push notification that an authentication attempt is taking place. User can simply view the details and approve or deny access with a single touch. 
+
 **Example** --- NCSU Duo System
 ![Push-Notification-based 2FA](/pic/Duo_push.jpg)
 ![Push-Notification-based 2FA, notification](/pic/notification.jpg)
+
+**Example** --- Google Confirm System
 ![Push-Notification-based 2FA](/pic/Google_push.jpg)
 ![Push-Notification-based 2FA, notification](/pic/confirmGoogle.jpg)
 
