@@ -35,7 +35,10 @@ Since cookie is so important and contains private information, hackers are tryin
 * Embedding information in URLs
 * Using hidden fields in forms
 * Using localStorage
-<h3>For users:<h3>
+<h3>For users:</h3>
 * Use anonymit mode for accessing website that you didn't wish to store your information.
 * Less use of "remember me", logout toinvalidate your authentication cookie when you finish. It could also prevent <a href="https://everydaysecurity.github.io/livingpeacefully/intimatepartnervoilence/">Intimate Partner Voilence</a>
 * Switch broswer if you are working on sensitive work.
+<br>
+check  <a href="https://www.slideshare.net/everydaysecurit/cookie-201791329">cookie ppt</a>
+and the <a href="https://www.slideshare.net/everydaysecurit/cookie-note">cookie ppt note</a>
