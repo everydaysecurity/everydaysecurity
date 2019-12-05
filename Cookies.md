@@ -31,12 +31,11 @@ Since cookie is so important and contains private information, hackers are tryin
 * Cross-site scripting: When the site is not careful enough, allowing the users to post unfiltered scripte, the attacker could alter the content of the page, and re-direct the original purpose of the page, like fake a new submit buttom. When the user click on it, it will send the user's cookie to the attacker instead of the orignal use.
 
 <h2>Other options?</h2>
-For developer:<br>
+<h3>For developer:</h3>
 * Embedding information in URLs
 * Using hidden fields in forms
 * Using localStorage
-<br>
-For users:<br>
+<h3>For users:<h3>
 * Use anonymit mode for accessing website that you didn't wish to store your information.
 * Less use of "remember me", logout toinvalidate your authentication cookie when you finish. It could also prevent <a href="https://everydaysecurity.github.io/livingpeacefully/intimatepartnervoilence/">Intimate Partner Voilence</a>
 * Switch broswer if you are working on sensitive work.
