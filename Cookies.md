@@ -20,8 +20,6 @@ In the same way, it could also store personal information, like the web setting,
 
 - Third-party cookie: this is the cookie that is not from the current pages, it will allow other website to read your web record, generally, this is used for advertisement and now it is abused, where most of the website will read your third-party cookie to get your browse history.
 
-- The police officor may not treat the harass as the same as sexual assult, even though the revenge porn is as serious as the it.
-
 <br>Here is a cookie example<br>
 <strong>Set-Cookie: LSID=DQAASD…EaCN_Ye; Path=/accounts; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly</strong>
 
