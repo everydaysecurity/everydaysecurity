@@ -40,5 +40,6 @@ Since cookie is so important and contains private information, hackers are tryin
 * Less use of "remember me", logout toinvalidate your authentication cookie when you finish. It could also prevent <a href="https://everydaysecurity.github.io/livingpeacefully/intimatepartnervoilence/">Intimate Partner Voilence</a>
 * Switch broswer if you are working on sensitive work.
 <br>
+<br>
 check  <a href="https://www.slideshare.net/everydaysecurit/cookie-201791329">cookie ppt</a>
 and the <a href="https://www.slideshare.net/everydaysecurit/cookie-note">cookie ppt note</a>
