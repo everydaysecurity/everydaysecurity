@@ -4,6 +4,8 @@ title: Password Manager
 permalink: /passwordmanager/
 ---
 
+![password Manager](/pic/cyber-security.png)
+
 <h2>What is a Password Manager?</h2>
 It’s a manager that keeps tracks of your passwords of different websites. Normally, it will keep all the password in an encrypted file in the computer or online that will not be visible to everyone. It remembers all your password online/offline in a “vault”. Some managers even help you create a password if needed.
 

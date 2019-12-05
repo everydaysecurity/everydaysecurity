@@ -3,6 +3,7 @@ layout: page
 title: Encryption
 permalink: /encryption/
 ---
+![Encryption](/pic/encryption.png)
 
 <h2>What is Encryption?</h2>
 In cryptography, encryption is a method that convert the plain text or data from readable to an encoded version, and usually the encryption requires an encryption key.
