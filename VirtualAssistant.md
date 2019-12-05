@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual Assistant
-permalink: /virtual-assistant/
+permalink: /virtualassistant/
 ---
 ![VirtualAssistant](/pic/chatbot.jpg)
 
