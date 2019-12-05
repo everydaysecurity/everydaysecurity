@@ -48,6 +48,7 @@ header_pages:
  - Encryption.md
  - ChipAndPin.md
  - 2FA.md
+ - VirtualAssistant.md
 
 # Build settings
 theme: minima
