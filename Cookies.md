@@ -22,10 +22,8 @@ In the same way, it could also store personal information, like the web setting,
 
 - The police officor may not treat the harass as the same as sexual assult, even though the revenge porn is as serious as the it.
 
-
-<img src="/livingpeacefully/social media.jpg" alt="stalking" width="200" height="200" />
-
-<br>Here is a cookie example<strong>Set-Cookie: LSID=DQAASD…EaCN_Ye; Path=/accounts; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly</strong>
+<br>Here is a cookie example<br>
+<strong>Set-Cookie: LSID=DQAASD…EaCN_Ye; Path=/accounts; Expires=Wed, 13 Jan 2021 22:23:01 GMT; Secure; HttpOnly</strong>
 
 <h2>Cookie theft</h2>
 
