@@ -26,7 +26,7 @@ In the same way, it could also store personal information, like the web setting,
 <h2>Cookie theft</h2>
 
 Since cookie is so important and contains private information, hackers are trying to get the cookies. <br>
-* Where network traffic is not encrypted, attackers can therefore read the communications of other users on the network, see <a href="https://everydaysecurity.github.io/everydaysecurity/publicwifi/">unsafe public WIFI</a><br>
+* Where network traffic is not encrypted, attackers can read the communications of other users on the network, intersect and use the cookies, see <a href="https://everydaysecurity.github.io/everydaysecurity/publicwifi/">unsafe public WIFI</a><br>
 * Fake sub-domain, when the attacker create a fake sub-domain to the real page, like https://123.www.amazon.com/, the browser will be fooled and send your amazon cookie to the attacker.
 * Cross-site scripting: When the site is not careful enough, allowing the users to post unfiltered scripte, the attacker could alter the content of the page, and re-direct the original purpose of the page, like fake a new submit buttom. When the user click on it, it will send the user's cookie to the attacker instead of the orignal use.
 
