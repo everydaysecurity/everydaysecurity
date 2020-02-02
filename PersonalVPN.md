@@ -24,7 +24,7 @@ Therefore, it is important to us to **check the VPN privacy statement** before u
 For example, is it anonymous? Is it zero-logging? Is the protocol method up-to-date? Where are the servers located?
 
 
-For education use, we also made a [Personal VPN PowerPoint](https://www.slideshare.net/everydaysecurit/personal-vpn-195753585) to help better understanding the topic.
+<h3>For education use, we also made a [Personal VPN PowerPoint](https://www.slideshare.net/everydaysecurit/personal-vpn-195753585) to help better understanding the topic.</h3>
 ```html
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.slideshare.net/everydaysecurit/personal-vpn-195753585]' width='100%' height='600px' frameborder='0'>
 ```
