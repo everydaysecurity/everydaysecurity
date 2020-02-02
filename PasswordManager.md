@@ -52,11 +52,5 @@ Password Managers companies improve and implementing more and more secure/advanc
 
 Hackers may spend more time on more valuable individuals. Not every user or individual is valuable to the hackers; Not every hacker would like to spend that much of a time to hack some random user.
 
-<h3>For education use, we also made a [Password Manager PowerPoint](https://www.slideshare.net/everydaysecurit/password-manager-226743097) to help better understanding the topic.</h3>
-
-
-
-
-
-
-
+**Education Use**
+For education use, we also made a [Password Manager PowerPoint](https://www.slideshare.net/everydaysecurit/password-manager-226743097) to help better understanding the topic.
