@@ -26,9 +26,13 @@ For example, is it anonymous? Is it zero-logging? Is the protocol method up-to-d
 
 **Education Use**
 For education use, we also made a [Personal VPN PowerPoint](https://www.slideshare.net/everydaysecurit/personal-vpn-195753585) to help better understanding the topic.
-```html
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.slideshare.net/everydaysecurit/personal-vpn-195753585]' width='100%' height='600px' frameborder='0'>
-```
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlbF0l5pqF_gI-JJ4uDA5HTXlBevQdzzOq6cmneu3lV3oY-wa2qcRSxDProyogAQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 
 [![Personal VPN](https://i.ibb.co/R0cWhMK/https-i-ytimg-com-vi-pjae0-R8-G730-maxresdefault.jpg)](https://www.youtube.com/watch?v=pjae0R8G730&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=3 "Personal VPN")
