@@ -31,7 +31,7 @@ For education use, we also made a [Personal VPN PowerPoint](https://www.slidesha
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlbF0l5pqF_gI-JJ4uDA5HTXlBevQdzzOq6cmneu3lV3oY-wa2qcRSxDProyogAQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnBvNC2xH5RrHzXYoIYpxaZWBkTI7_HIyYkLqnCtRTtLpt5rqwgFHUSkZxzHL_-w/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 

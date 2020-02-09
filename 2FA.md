@@ -45,3 +45,11 @@ For the convenience of use, push notification method is getting more popular. It
 
 **Biometric 2FA**
 This method is treating user as the token. It requires something that only the user has, for example, fingerprints, retina patterns, and facial recognition, etc. Because of the skip use of 2FA when dealing with account recovery, which leads to less security. If we can find a smart with to use biometric recovery method, it provides a more secure and usable way to protect ourselves. 
+
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAZJYZt9mNAfzOIZ2G3s0M0_PyqZPR5iZBO8dEnO0HeaPTph1mysvFyzPPfOwUhA/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
