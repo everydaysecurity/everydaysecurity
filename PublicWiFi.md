@@ -27,11 +27,12 @@ Airport, restaurant, hotel, etc.
 * Do <strong>NOT</strong> log into financial accounts
 
 
+[![Public Wi-Fi](https://i.ytimg.com/vi/bceHhjBa8NI/hqdefault.jpg)](https://www.youtube.com/watch?v=bceHhjBa8NI "Public Wi-Fi")
+
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlbF0l5pqF_gI-JJ4uDA5HTXlBevQdzzOq6cmneu3lV3oY-wa2qcRSxDProyogAQ/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
-[![Public Wi-Fi](https://i.ibb.co/dJTpVfM/https-i-ytimg-com-vi-wp-MCEOak-Al8-maxresdefault.jpg)](https://www.youtube.com/watch?v=wpMCEOakAl8&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=2&t=0s "Public Wi-Fi")

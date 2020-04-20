@@ -35,6 +35,7 @@ Despite the security that chips provide, all chip cards still come with magnetic
 <h2>Transition to contactless payment</h2>
 Contactless payment is a secure method for consumers to purchase products or services using a card with RFID (Radio frequency identification) technology or NFC (near-field communication).
 
+[![Secure Credit Card](https://i.ytimg.com/vi/j8K0hUg1FW0/hqdefault.jpg)](https://www.youtube.com/watch?v=j8K0hUg1FW0 "Secure Credit Card")
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

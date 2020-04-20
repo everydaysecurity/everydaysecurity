@@ -23,6 +23,8 @@ It is very possible those free VPN contains malware. **38%** of VPNs showed sign
 Therefore, it is important to us to **check the VPN privacy statement** before using them. 
 For example, is it anonymous? Is it zero-logging? Is the protocol method up-to-date? Where are the servers located?
 
+[![Personal VPN](https://i.ibb.co/R0cWhMK/https-i-ytimg-com-vi-pjae0-R8-G730-maxresdefault.jpg)](https://www.youtube.com/watch?v=pjae0R8G730&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=3 "Personal VPN")
+
 
 **Education Use**
 For education use, we also made a [Personal VPN PowerPoint](https://www.slideshare.net/everydaysecurit/personal-vpn-195753585) to help better understanding the topic.
@@ -33,6 +35,3 @@ For education use, we also made a [Personal VPN PowerPoint](https://www.slidesha
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnBvNC2xH5RrHzXYoIYpxaZWBkTI7_HIyYkLqnCtRTtLpt5rqwgFHUSkZxzHL_-w/embed?start=false&loop=false&delayms=15000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
-
-[![Personal VPN](https://i.ibb.co/R0cWhMK/https-i-ytimg-com-vi-pjae0-R8-G730-maxresdefault.jpg)](https://www.youtube.com/watch?v=pjae0R8G730&list=PLEbgXzCwfYcfwpl1TYtGdi4lo6h9j_TT4&index=3 "Personal VPN")
