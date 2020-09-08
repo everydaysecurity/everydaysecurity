@@ -1,20 +1,3 @@
-<script>
-        var mini = true;
-
-        function toggleSidebar() {
-            if (mini) {
-                console.log("opening sidebar");
-                document.getElementById("mySidebar").style.width = "250px";
-                document.getElementById("main").style.marginLeft = "60px";
-                this.mini = false;
-            } else {
-                console.log("closing sidebar");
-                document.getElementById("mySidebar").style.width = "180px";
-                document.getElementById("main").style.marginLeft = "10px";
-                this.mini = true;
-            }
-        }
-</script>
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
