@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Cybersecurity Education for K-120
+title: Home
 image: nc_state.jpg
 ---
 ### One citizen. One human error. One **nation** impacted.
