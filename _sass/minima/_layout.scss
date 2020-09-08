@@ -45,7 +45,7 @@
 
 .site-nav {
   position: absolute;
-  top: 50px;
+  top: 9px;
   right: $spacing-unit / 2;
   background-color: $background-color;
   border: 1px solid $grey-color-light;
@@ -67,6 +67,15 @@
     > svg path {
       fill: $grey-color-dark;
     }
+  }
+
+  label[for="nav-trigger"] {
+    display: block;
+    float: right;
+    width: 36px;
+    height: 36px;
+    z-index: 2;
+    cursor: pointer;
   }
 
   input ~ .trigger {
@@ -93,6 +102,10 @@
   }
 
   @media screen and (min-width: $on-medium) {
+    position: static;
+    float: right;
+    border: none;
+    background-color: inherit;
 
     label[for="nav-trigger"] {
       display: none;
@@ -102,6 +115,19 @@
       display: none;
     }
 
+    input ~ .trigger {
+      display: block;
+    }
+
+    .page-link {
+      display: inline;
+      padding: 0;
+
+      &:not(:last-child) {
+        margin-right: 20px;
+      }
+      margin-left: auto;
+    }
   }
 }
 
