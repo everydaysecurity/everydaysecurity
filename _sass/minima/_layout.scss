@@ -313,6 +313,22 @@
   text-decoration: none; /* Remove underline */
 }
 
+@media (max-width: 768px) {
+    .sidebar {
+        display: none;
+    }
+	.site-title {
+		margin-left: auto;
+		padding-right: $spacing-unit / 2;
+		padding-left: $spacing-unit / 2;
+	}
+	.site-footer {
+		margin-left: auto;
+		padding-right: $spacing-unit / 2;
+		padding-left: $spacing-unit / 2;
+	}
+}
+
 /**
  * Grid helpers
  */
