@@ -1,14 +1,15 @@
 <div id="navigation">
   <ul class="nav sidenav">
     <div class="sidebar">
-        
+        <a href="https://ncsu.edu">
     <img  src="https://brand.ncsu.edu/assets/logos/ncstate-brick-2x2-red.png" alt="nc state logo">
+        </a>
       {%- if titles_size > 0 -%}
           <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
-                <a href="{{ my_page.url | relative_url }}" style="font-size:120%;">{{ my_page.title | escape }}</a>
+                <br><a class="page-link" href="{{ my_page.url | relative_url }}" style="font-size:120%; padding-left: 20px">{{ my_page.title | escape }}</a></br> 
             {%- endif -%}
           {%- endfor -%}
         </div>
