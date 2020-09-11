@@ -83,7 +83,6 @@
     color: $text-color;
     line-height: $base-line-height;
     display: block;
-    padding: 5px 10px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -181,10 +180,8 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
-  flex: 1 0 auto;
+	
 }
-
 .page-heading {
   @include relative-font-size(2);
 }
@@ -294,7 +291,6 @@
 .sidebar a {
   color: white;
   display: block;
-  padding: -30px;
   text-decoration: none; /* Remove underline */
   transition: 0.5s;
 }
@@ -313,7 +309,7 @@
   text-decoration: none; /* Remove underline */
 }
 
-@media (max-width: 768px) {
+@media and screen(max-width: $on-medium) {
     .sidebar {
         display: none;
     }
