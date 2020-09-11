@@ -309,7 +309,7 @@
   text-decoration: none; /* Remove underline */
 }
 
-@media and screen(max-width: $on-medium) {
+@media (max-width: $on-medium) {
     .sidebar {
         display: none;
     }
