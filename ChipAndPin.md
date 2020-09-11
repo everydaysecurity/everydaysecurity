@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Secure credit card
+title: Secure Credit Card
 permalink: /chipandpin/
 ---
 ![Chip-and-PIN credit card](/pic/chip_and_pin.jpg)

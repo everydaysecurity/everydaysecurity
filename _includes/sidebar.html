@@ -12,6 +12,14 @@
                 <a href="{{ my_page.url | relative_url }}" style="padding-top: 0.5em; padding-bottom: 0.5em; font-size:min(3vh, 20px); margin-left:20px; margin-right:10px;">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+		        <a class="dropdown-btn" style="padding-top: 0.5em; padding-bottom: 0.5em; font-size:min(3vh, 20px); margin-left:20px; margin-right:10px;">Dropdown 
+					<i class="fa fa-caret-down"></i>
+				</a>
+				  <div class="dropdown-container">
+					<a href="#" style="padding-top: 0.5em; padding-bottom: 0.5em; font-size:min(3vh, 20px); margin-left:20px; margin-right:10px;">Link 1</a>
+					<a href="#" style="padding-top: 0.5em; padding-bottom: 0.5em; font-size:min(3vh, 20px); margin-left:20px; margin-right:10px;">Link 2</a>
+					<a href="#" style="padding-top: 0.5em; padding-bottom: 0.5em; font-size:min(3vh, 20px); margin-left:20px; margin-right:10px;">Link 3</a>
+				  </div>
         </div>
       {%- endif -%}
     </div>
