@@ -96,7 +96,6 @@ Often times this is manifested as login pages or subscription signup forms</li>
 ## How Important Is Phishing?
 <ul>
 <li>According to a <a href="https://cofense.com/wp-content/uploads/2017/10/PhishMe_EnterprisePhishingSusceptibilityReport_2015_Final.pdf"><u>PhishMe study</u></a> and <a href="https://www.mimecast.com/content/phishing/"><u>Mimecast</u></a>, 91% of cyber attacks begin with email phishing</li>
-<li>You can also contact the Anti-Phishing Working Group or the<a href="https://www.google.com/url?q=https://www.ic3.gov/complaint/default.aspx&amp;sa=D&amp;ust=1601491848511000&amp;usg=AOvVaw15Uslms5y-7Nfb3B4Sj4wZ">&nbsp;Internet Crime Complaint Center</a></li>
 <ul>
 <li>30% of email phishing is actually opened</li>
 <li>12% of those targeted open the malicious link</li>
