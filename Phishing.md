@@ -4,7 +4,6 @@ title: Phishing
 permalink: /phishing/
 ---
 <img src="/pic/phishing.jpg" height="350" width="600">
-<p><a href="https://www.flickr.com/photos/132889348@N07/20444221888"><u>&quot;Phishing warning&quot;</u></a> by<a href="https://www.flickr.com/photos/132889348@N07"><u> Christiaan Colen</u></a> is licensed under<a href="https://creativecommons.org/licenses/by-sa/2.0/?ref=ccsearch&atype=rich"><u> CC BY-SA 2.0</u></a></p>
 
 ## What is Phishing?
 <ul>
