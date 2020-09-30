@@ -50,7 +50,7 @@ header_pages:
  - 2FA.md
  - VirtualAssistant.md
  - Cookies.md
-
+ - Phishing.md
 # Build settings
 theme: minima
 
