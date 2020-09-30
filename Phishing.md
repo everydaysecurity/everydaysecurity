@@ -37,7 +37,7 @@ Often times this is manifested as login pages or subscription signup forms</li>
 </ul>
 </ul>
 
-## What Can I Do To Protect Myself
+## What Can I Do To Protect Myself?
 <ul>
 <li>What to Manually Check For</li>
 <ul>
@@ -53,7 +53,7 @@ Often times this is manifested as login pages or subscription signup forms</li>
 <li>When it doubt, throw it out (delete the message)</li>
 </ul>
 
-## What Tools Can Use to Protect Myself
+## What Tools Can Use to Protect Myself?
 <ul>
 <li>Ask you email/text messaging service provider if they provide built-in spam/unknown message filters</li>
 <li>Message filters scan the contents and will remove items from your inbox so you never have the chance to open a potential phishing messages</li>
@@ -76,7 +76,7 @@ Often times this is manifested as login pages or subscription signup forms</li>
 </ul>
 </ul>
 
-## What Can I Do If I Am A Victum
+## What Can I Do If I Am A Victum?
 <ul>
 <li>Don’t be afraid and report the incident to the appropriate person/group in your organization</li>
 <ul>
