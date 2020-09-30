@@ -77,7 +77,7 @@ Often times this is manifested as login pages or subscription signup forms</li>
 </ul>
 </ul>
 
-## What Can I Do If I Am A Victum?
+## What Can I Do If I Am A Victim?
 <ul>
 <li>Don&rsquo;t be afraid and report it to the appropriate person/group in your organization. This will help them be aware of the situation and to let others know so they are do not fall victims also</li>
 <li>If you believe that your bank or other financial institution records and account were apart of the attack, call them immediately and close/freeze all the accounts</li>
