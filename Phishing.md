@@ -3,7 +3,7 @@ layout: page
 title: Phishing
 permalink: /phishing/
 ---
-<img src="/pic/phishing.jpg" height="350" width="600">
+![Phishing](/pic/phishing.jpg)
 
 ## What is Phishing?
 <ul>
