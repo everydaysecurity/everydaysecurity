@@ -20,73 +20,60 @@ permalink: /scams/
 	</ul>
 
 <h2>The types of internet scams</h2>
-	<ul>
-		<li><u>Dating/Romance scams</u>
-			<ul>
+<ul>
+	<li>Dating/Romance scams</li>
+		<ul>
 			<li>The scammer will create a fake dating profile and start an online relationship with the victim. However, they will constantly make excuses for not being able to meet in person. As the relationship progresses, they will begin to ask for money or credit card details.</li>
-			</ul> 
-		</li>
-		<li><u>Overpayment scams</u>
-			<ul>
+		</ul> 
+	<li>Overpayment scams</li>
+		<ul>
 			<li>The scammer will pay for an item that you are selling, but will purposefully write a check for more than the item is worth. The scammer will ask the victim to pay back the taxes/fees or wire back the difference. By the time the original check is detected as fake by the victim’s bank, the victim has already sent the scammer their own money.</li>
-			</ul>
-		</li>
-		<li><u>Quick-money promise</u>
-			<ul>
+		</ul>
+	<li>Quick-money promise</li>
+		<ul>
 			<li>The scammers will advertise a job requiring little to no work with promises of fast cash. When the victim applies, they fill out paperwork and provide the scammers with their social security number, address, and bank account information. This information is used by the scammers to access the victim’s bank account.</li>
-			</ul>
-		</li>
-		<li><u>Facebook impersonation scam</u>
-			<ul>
+		</ul>
+	<li>Facebook impersonation scam</li>
+		<ul>
 			<li>The scammer creates a seemingly real Facebook account impersonating the victim and sends friend requests to their friends list to try to gain more information about their personal life.</li>
-			</ul>
-		</li>
-		<li><u>Fake shopping websites</u>
-			<ul>
+		</ul>
+	<li>Fake shopping websites</li>
+		<ul>
 			<li>Scammers will create authentic looking websites and offer amazing deals on their products. The victim will pay for their items but will often receive fake items or nothing at all.</li>
-			</ul>
-		</li>
-		<li><u>Phishing scams</u>
-			<ul>
+		</ul>
+	<li>Phishing scams</li>
+		<ul>
 			<li>TThe scammer will send an email from a seemingly credible source (such as a bank, social media site, or a store) and ask for personal information. See Phishing tab for more information.</li>
-			</ul>
-		</li>
-		<li><u>Lottery scams</u>
-			<ul>
+		</ul>
+	<li>Lottery scams</li>
+		<ul>
 			<li>Scammers will send the victim an email stating they have won a prize but must pay a fee before receiving the prize.</li>
-			</ul>
-		</li>
-		<li><u>Extortion scams</u>
-			<ul>
+		</ul>
+	<li>Extortion scams</li>
+		<ul>
 			<li>The scammer will threaten the victim or the victim’s family members unless they pay a ransom. The scammers will use social media to learn facts about the victim to make their threats seem real.</li>
-			</ul>
-		</li>
-		<li><u>Malware scams</u>
-			<ul>
+		</ul>
+	<li>Malware scams</li>
+		<ul>
 			<li>The scammers will send pop-up messages, links, or emails to the victim. Clicking the link installs software onto the victim’s device which can scan for personal information, lock the device, or destroy important files. </li>
-			</ul>
-		</li>
-		<li><u>Internet security scams</u>
-			<ul>
+		</ul>
+	<li>Internet security scams</li>
+		<ul>
 			<li>Scammers will use pop-up messages or emails to promote their software services. When they are contacted by the victim, they will offer unnecessary tech support services or install malware for a fee.</li>
-			</ul>
-		</li>
-		<li><u>IRS/Tax scams</u>
-			<ul>
+		</ul>
+	<li>IRS/Tax scams</li>
+		<ul>
 			<li>The scammers will pose as IRS officials and target taxpayers. They might also pose as other government officials and threaten to send the victim to jail unless the victim sends them money. Always remember that the IRS usually contacts by mail and will never threaten with arrest.</li>
-			</ul>
-		</li>
-		<li><u>PayPal scams</u>
-			<ul>
+		</ul>
+	<li>PayPal scams</li>
+		<ul>
 			<li>The scammers will send their victim an email with a link claiming that something is wrong with their PayPal account. When the victim clicks the link, a website similar to PayPal opens. Once the victim logs into their account, the scammer can access their log in details. </li>
-			</ul>
-		</li>
-		<li><u>Nigerian check scams</u>
-			<ul>
+		</ul>
+	<li>Nigerian check scams</li>
+		<ul>
 			<li>The scammers will send the victim an email posing as a person of authority (gov. Employee, wealthy family) that needs help recovering large sums of money from overseas banks. They say the reward will be transferred to the victim’s bank account so they ask for bank details or tell the victim to pay transfer fees. </li>
-			</ul>
-		</li>
-	</ul>
+		</ul>
+</ul>
 
 <h2>How can I protect myself?</h2>
 <ul>
