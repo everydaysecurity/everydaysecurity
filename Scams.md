@@ -5,13 +5,12 @@ permalink: /scams/
 ---
 ![Scams](/pic/scams.jpg)
 <h2>What are scams?</h2>
-	<ul>
-		<li>Internet scams and frauds involve the use of the Internet and its services to take advantage of victims.</li>
-		<li>These scams are extremely effective because as new technology is being developed, scammers evolve their tactics to target unsuspecting victims.</li> 
-		<li>Ultimately, most victims either lose money or fail to receive money back from scammers.</li>
-	</ul>
+	Internet scams and frauds involve the use of the Internet and its services to take advantage of victims.
+	These scams are extremely effective because as new technology is being developed, scammers evolve their tactics to target unsuspecting victims.
+	Ultimately, most victims either lose money or fail to receive money back from scammers.
 
 <h2>How common are internet scams?</h2>
+	According to a report by the Federal Trade Commission:
 	<ul>
 		<li>In 2019, the Federal Trade Commission received 3.2 million consumer reports. 1.7 million of these reports were related to fraud, and 650,572 reports were related to identity theft.</li> 
 		<li>Imposter scams were the number one reported fraud, with $667 million dollars being lost from these scams.</li>
@@ -21,60 +20,73 @@ permalink: /scams/
 	</ul>
 
 <h2>The types of internet scams</h2>
-	<ol>
-		<li><u>Dating/Romance scams</u></li>
+	<ul>
+		<li><u>Dating/Romance scams</u>
 			<ul>
 			<li>The scammer will create a fake dating profile and start an online relationship with the victim. However, they will constantly make excuses for not being able to meet in person. As the relationship progresses, they will begin to ask for money or credit card details.</li>
 			</ul> 
-		<li><u>Overpayment scams</u></li>
+		</li>
+		<li><u>Overpayment scams</u>
 			<ul>
 			<li>The scammer will pay for an item that you are selling, but will purposefully write a check for more than the item is worth. The scammer will ask the victim to pay back the taxes/fees or wire back the difference. By the time the original check is detected as fake by the victim’s bank, the victim has already sent the scammer their own money.</li>
 			</ul>
-		<li><u>Quick-money promise</u></li>
+		</li>
+		<li><u>Quick-money promise</u>
 			<ul>
 			<li>The scammers will advertise a job requiring little to no work with promises of fast cash. When the victim applies, they fill out paperwork and provide the scammers with their social security number, address, and bank account information. This information is used by the scammers to access the victim’s bank account.</li>
 			</ul>
-		<li><u>Facebook impersonation scam</u></li>
+		</li>
+		<li><u>Facebook impersonation scam</u>
 			<ul>
 			<li>The scammer creates a seemingly real Facebook account impersonating the victim and sends friend requests to their friends list to try to gain more information about their personal life.</li>
 			</ul>
-		<li><u>Fake shopping websites</u></li>
+		</li>
+		<li><u>Fake shopping websites</u>
 			<ul>
 			<li>Scammers will create authentic looking websites and offer amazing deals on their products. The victim will pay for their items but will often receive fake items or nothing at all.</li>
 			</ul>
-		<li><u>Phishing scams</u></li>
+		</li>
+		<li><u>Phishing scams</u>
 			<ul>
 			<li>TThe scammer will send an email from a seemingly credible source (such as a bank, social media site, or a store) and ask for personal information. See Phishing tab for more information.</li>
 			</ul>
-		<li><u>Lottery scams</u></li>
+		</li>
+		<li><u>Lottery scams</u>
 			<ul>
 			<li>Scammers will send the victim an email stating they have won a prize but must pay a fee before receiving the prize.</li>
 			</ul>
-		<li><u>Extortion scams</u></li>
+		</li>
+		<li><u>Extortion scams</u>
 			<ul>
 			<li>The scammer will threaten the victim or the victim’s family members unless they pay a ransom. The scammers will use social media to learn facts about the victim to make their threats seem real.</li>
 			</ul>
-		<li><u>Malware scams</u></li>
+		</li>
+		<li><u>Malware scams</u>
 			<ul>
 			<li>The scammers will send pop-up messages, links, or emails to the victim. Clicking the link installs software onto the victim’s device which can scan for personal information, lock the device, or destroy important files. </li>
 			</ul>
-		<li><u>Internet security scams</u></li>
+		</li>
+		<li><u>Internet security scams</u>
 			<ul>
 			<li>Scammers will use pop-up messages or emails to promote their software services. When they are contacted by the victim, they will offer unnecessary tech support services or install malware for a fee.</li>
 			</ul>
-		<li><u>IRS/Tax scams</u></li>
+		</li>
+		<li><u>IRS/Tax scams</u>
 			<ul>
 			<li>The scammers will pose as IRS officials and target taxpayers. They might also pose as other government officials and threaten to send the victim to jail unless the victim sends them money. Always remember that the IRS usually contacts by mail and will never threaten with arrest.</li>
 			</ul>
-		<li><u>PayPal scams</u></li>
+		</li>
+		<li><u>PayPal scams</u>
 			<ul>
 			<li>The scammers will send their victim an email with a link claiming that something is wrong with their PayPal account. When the victim clicks the link, a website similar to PayPal opens. Once the victim logs into their account, the scammer can access their log in details. </li>
 			</ul>
-		<li><u>Nigerian check scams</u></li>
+		</li>
+		<li><u>Nigerian check scams</u>
 			<ul>
 			<li>The scammers will send the victim an email posing as a person of authority (gov. Employee, wealthy family) that needs help recovering large sums of money from overseas banks. They say the reward will be transferred to the victim’s bank account so they ask for bank details or tell the victim to pay transfer fees. </li>
 			</ul>
-	</ol>
+		</li>
+	</ul>
 
 <h2>How can I protect myself?</h2>
 <ul>
@@ -98,19 +110,21 @@ permalink: /scams/
 	<li>Consider payment methods</li>
 		<ul>
 			<li>Don’t pay upfront for a promise. </li>
-			<li>Beware of unusual payment requests</li>
+			<li>Beware of unusual payment requests
 				<ul>
 					<li>While credit cards have significant fraud protection built in, wiring money through services like Western Union or MoneyGram is risky because it’s nearly impossible to get your money back, same for reloadable cards/gift cards (MoneyPak/Reloadit/iTunes/Google Play).</li>
 				</ul>
+			</li>
 			<li>Never send anyone you don’t know or trust money or credit card details. </li>
 			<li>Be skeptical about free trials (some companies might bill your every month after the free trial ends so make sure you read the cancellation policy).</li>
 		</ul>
-	<li> Be careful online</li>
+	<li> Be careful online
 		<ul>
 			<li>Never open suspicious texts/emails, pop-up windows, or click on suspicious links/attachments.</li>
 			<li>Use reputable, trusted shopping services when shopping online.</li>
 			<li>Ensure legitimacy by doing online searches.</li>
 		</ul>
+	</li>
 </ul>
 
 <h2>Coronavirus scams</h2>
