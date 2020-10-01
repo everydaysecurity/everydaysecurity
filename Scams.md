@@ -5,19 +5,19 @@ permalink: /scams/
 ---
 ![Scams](/pic/scams.jpg)
 <h2>What are scams?</h2>
-	Internet scams and frauds involve the use of the Internet and its services to take advantage of victims.
-	These scams are extremely effective because as new technology is being developed, scammers evolve their tactics to target unsuspecting victims.
-	Ultimately, most victims either lose money or fail to receive money back from scammers.
+Internet scams and frauds involve the use of the Internet and its services to take advantage of victims.
+These scams are extremely effective because as new technology is being developed, scammers evolve their tactics to target unsuspecting victims.
+Ultimately, most victims either lose money or fail to receive money back from scammers.
 
 <h2>How common are internet scams?</h2>
-	According to a report by the Federal Trade Commission:
-	<ul>
-		<li>In 2019, the Federal Trade Commission received 3.2 million consumer reports. 1.7 million of these reports were related to fraud, and 650,572 reports were related to identity theft.</li> 
-		<li>Imposter scams were the number one reported fraud, with $667 million dollars being lost from these scams.</li>
-		<li>The number one method of contact for scammers is by phone calls.</li>
-		<li>33% of the reports were from people ages 20-29, 13% were ages 70-79. However, most of the complaints were made by those near 50 years old.</li>  
-		<li>According to the Federal Trade Commision, the most common methods of payment for scammers are wire transfer ($439 million lost), credit cards ($135 million lost), cash/cash advances ($120 million lost), and gift cards/reloadable cards ($103 million lost).</li> 
-	</ul>
+According to a report by the Federal Trade Commission:
+<ul>
+	<li>In 2019, the Federal Trade Commission received 3.2 million consumer reports. 1.7 million of these reports were related to fraud, and 650,572 reports were related to identity theft.</li> 
+	<li>Imposter scams were the number one reported fraud, with $667 million dollars being lost from these scams.</li>
+	<li>The number one method of contact for scammers is by phone calls.</li>
+	<li>33% of the reports were from people ages 20-29, 13% were ages 70-79. However, most of the complaints were made by those near 50 years old.</li>  
+	<li>According to the Federal Trade Commision, the most common methods of payment for scammers are wire transfer ($439 million lost), credit cards ($135 million lost), cash/cash advances ($120 million lost), and gift cards/reloadable cards ($103 million lost).</li> 
+</ul>
 
 <h2>The types of internet scams</h2>
 <ul>
@@ -138,7 +138,7 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 </div>
 
 <h2>Sources</h2>
-	<ul>
+<ul>
 	<li>https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2019/consumer_sentinel_network_data_book_2019.pdf</li>
 	<li>https://about.att.com/pages/cyberaware/ar/irs_scam</li>
 	<li>https://www.moneycrashers.com/common-email-internet-scams/</li>
@@ -146,6 +146,6 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 	<li>https://us.norton.com/internetsecurity-online-scams-internet-scams.html</li>
 	<li>https://www.scamwatch.gov.au/get-help/protect-yourself-from-scams</li>
 	<li>https://www.ftc.gov/coronavirus/scams-consumer-advice</li>
-	</ul>
+</ul>
 
 
