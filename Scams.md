@@ -139,13 +139,13 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 
 <h2>Sources</h2>
 <ul>
-	<li>https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2019/consumer_sentinel_network_data_book_2019.pdf</li>
-	<li>https://about.att.com/pages/cyberaware/ar/irs_scam</li>
-	<li>https://www.moneycrashers.com/common-email-internet-scams/</li>
-	<li>https://www.consumer.ftc.gov/articles/0060-10-things-you-can-do-avoid-fraud</li>
-	<li>https://us.norton.com/internetsecurity-online-scams-internet-scams.html</li>
-	<li>https://www.scamwatch.gov.au/get-help/protect-yourself-from-scams</li>
-	<li>https://www.ftc.gov/coronavirus/scams-consumer-advice</li>
+	<li><a href= "https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2019/consumer_sentinel_network_data_book_2019.pdf">Consumer Sentinel Network Data Book 2019</a></li>
+	<li><a href="https://about.att.com/pages/cyberaware/ar/irs_scam">IRS/Tax Scams and Similar Government Agency Scams Alert</a></li>
+	<li><a href="https://www.moneycrashers.com/common-email-internet-scams/">10 Common Email & Internet Scams – How to Avoid Them</a></li>
+	<li><a href="https://www.consumer.ftc.gov/articles/0060-10-things-you-can-do-avoid-fraud">10 Things You Can Do to Avoid Fraud</a></li>
+	<li><a href="https://us.norton.com/internetsecurity-online-scams-internet-scams.html">Internet scams: What they are and how to avoid them</a></li>
+	<li><a href="https://www.scamwatch.gov.au/get-help/protect-yourself-from-scams">Protect yourself from scams</a></li>
+	<li><a href="https://www.ftc.gov/coronavirus/scams-consumer-advice">Coronavirus Advice for Consumers</a></li>
 </ul>
 
 
