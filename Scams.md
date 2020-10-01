@@ -134,7 +134,7 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzdmvvjOXZTezcatEcsXH_vkUpjnCv0l6NJVKvlvUzzZGYxFPoNiP3lSj8PMRgHKmDKWy_iga3Goj/pub?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzdmvvjOXZTezcatEcsXH_vkUpjnCv0l6NJVKvlvUzzZGYxFPoNiP3lSj8PMRgHKmDKWy_iga3Goj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 <h2>Sources</h2>
