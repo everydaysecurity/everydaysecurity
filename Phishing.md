@@ -5,7 +5,7 @@ permalink: /phishing/
 ---
 ![Phishing](/pic/phishing.jpg)
 
-<p style="color:Gray">Image found at <a style="color:Gray" href="https://www.malwarebytes.com/phishing/">malwarebytes.com/phishing</a></p>
+<p style="color:Gray">Image source: <a style="color:Gray" href="https://www.malwarebytes.com/phishing/">malwarebytes.com/phishing</a></p>
 
 ## What is Phishing?
 <ul>
@@ -61,7 +61,7 @@ Often times this is manifested as login pages or subscription signup forms</li>
 <li>Message filters scan the contents and will remove items from your inbox so you never have the chance to open a potential phishing messages</li>
 <li>Most email providers (ex. Gmail, Yahoo, etc.) have built in options to enable filters for spam/phishing emails</li>
 <li>Many modern phones (including the iPhone) can automatically warn you of potential malicious phone numbers if they call you</li>
-<li>Browser extensions such as Barracuda or Mimecast will actively scan your emails to detect common patterns of fake emails that you might not catch as quickly (this is not a 100% safe guard!)</li>
+<li>Browser extensions such as <a href="https://www.barracuda.com/products/emailsecuritygateway">Barracuda</a> or <a href="https://community.mimecast.com/s/mimecast-for-outlook">Mimecast</a> will actively scan your emails to detect common patterns of fake emails that you might not catch as quickly (this is not a 100% safe guard!)</li>
 </ul>
 
 ## Good Reminders
