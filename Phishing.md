@@ -61,8 +61,16 @@ Often times this is manifested as login pages or subscription signup forms</li>
 <li>Message filters scan the contents and will remove items from your inbox so you never have the chance to open a potential phishing messages</li>
 <li>Most email providers (ex. Gmail, Yahoo, etc.) have built in options to enable filters for spam/phishing emails</li>
 <li>Many modern phones (including the iPhone) can automatically warn you of potential malicious phone numbers if they call you</li>
-<li>Browser extensions such as <a href="https://www.barracuda.com/products/emailsecuritygateway">Barracuda</a> or <a href="https://community.mimecast.com/s/mimecast-for-outlook">Mimecast</a> will actively scan your emails to detect common patterns of fake emails that you might not catch as quickly (this is not a 100% safe guard!)</li>
+<li>Browser extensions such as <a href="https://clean.email/gmail-spam-filter">Clean Email</a>, <a href="https://www.barracuda.com/products/emailsecuritygateway">Barracuda</a>, or <a href="https://community.mimecast.com/s/mimecast-for-outlook">Mimecast</a> will actively scan your emails to detect common patterns of fake emails that you might not catch as quickly (this is not a 100% safe guard!)</li>
 </ul>
+
+## How Do I Setup A Email Spam Filter
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQv_eR8FfGk8H5D2FH-gp6T3BEm1Iv6kx1eUmkKH6c52vnn5QNn6kDShJeApaYxqhtxv8C8Q6GMGZxF/embed" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## Good Reminders
 <ul>
@@ -114,7 +122,7 @@ For education use, we also made a [Phishing Powerpoint](https://www.slideshare.n
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKhvQZ6Tlm2ZPEncLEYMZLqvYaLXQYh-IdP3XgVv3YFqO30hurrih4cXV03bnD864hmLsRdMlZmXkF/embed" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKhvQZ6Tlm2ZPEncLEYMZLqvYaLXQYh-IdP3XgVv3YFqO30hurrih4cXV03bnD864hmLsRdMlZmXkF/embed" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
 ## Sources
