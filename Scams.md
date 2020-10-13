@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Scams
-permalink: /scams/
+title: Internet Scams
+permalink: /internetscams/
 ---
 ![Scams](/pic/scams.jpg)
-<h2>What are scams?</h2>
+<h2>What are internet scams?</h2>
 Internet scams and frauds involve the use of the Internet and its services to take advantage of victims.
 These scams are extremely effective because as new technology is being developed, scammers evolve their tactics to target unsuspecting victims.
 Ultimately, most victims either lose money or fail to receive money back from scammers.
@@ -43,7 +43,7 @@ According to a report by the Federal Trade Commission:
 		</ul>
 	<li>Phishing scams</li>
 		<ul>
-			<li>TThe scammer will send an email from a seemingly credible source (such as a bank, social media site, or a store) and ask for personal information. See Phishing tab for more information.</li>
+			<li>The scammer will send an email from a seemingly credible source (such as a bank, social media site, or a store) and ask for personal information. See Phishing tab for more information.</li>
 		</ul>
 	<li>Lottery scams</li>
 		<ul>
