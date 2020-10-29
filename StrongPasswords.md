@@ -25,7 +25,7 @@ A good website to use is [How Secure is My Password](https://howsecureismypasswo
 
 <h2>Storing Passwords</h2>
 Remembering a plethora of passwords can be frustrating. A way to deal with this is to use a password manager.
-- ex: Dashlane, Lastpass, 1Password, Google Password Manager
+- ex: [Dashlane](https://www.dashlane.com/), [Lastpass](https://www.lastpass.com/), [1Password](https://1password.com/), [Google Password Manager](passwords.google.com)
 For the password manager to be most efficient:
 - Create a “Strong Password” for accessing the manager
 - Terminate out of the manager completely when you are not using it (even if it is locked)
