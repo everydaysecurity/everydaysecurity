@@ -125,6 +125,11 @@ For education use, we also made a [Phishing Powerpoint](https://www.slideshare.n
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKhvQZ6Tlm2ZPEncLEYMZLqvYaLXQYh-IdP3XgVv3YFqO30hurrih4cXV03bnD864hmLsRdMlZmXkF/embed" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+<br>
+## Video Presentation
+<iframe width="420" height="345" src="https://www.youtube.com/embed/f_dqtQZhpc8">
+</iframe>
+
 ## Sources
 <ul>
 <li><a href="https://bigdata-madesimple.com/77-facts-about-cyber-crimes-one-should-know-in-2018-infographic/"><u>https://bigdata-madesimple.com/77-facts-about-cyber-crimes-one-should-know-in-2018-infographic/</u></a></li>
