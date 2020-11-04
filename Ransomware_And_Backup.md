@@ -54,7 +54,6 @@ permalink: /ransomware/
 *   CDs, DVDs, and USB flash drives→ these options are great for holding small amounts of data such as your photos from one or two months
     *   Modern flash drives are rewritable but can sometimes be unreliable
     *   Most CDs and DVDs are write one, meaning once written these data on the medium can’t be changed or modified
-    *   Most modern day laptops have removed CD/DVD drive readers because they are an aging storage method due to the small amount of data that they can hold on one disk
 *   Solid State Disk (SSD) → this means that this method of storage does not require moving parts and utilizes flash technology similar to a USB flash drive
     *   Most SSDs can support high amounts of storage (some over 1 TB)
     *   Due to caching technology SSDs allow for quick access and lightning fast transfer speeds
@@ -76,15 +75,12 @@ permalink: /ransomware/
 *   Hard drives
     *   Need to be in a climate controlled environment that ensures that extreme levels of temperature or humidity are mitigated before they might become an issue
     *   Need to be powered on every few years in order to avoid the risk of the oil around the ball bearings on the drive drying out
-    *   Incase your primary drive crashes or is destroyed in natural disasters a second drive that has an identical copy of the data should be stored in another location
     *   Handle with care when in transportation
 *   CDs and DVDs
-    *   Always use a carrying case or sleeve to transport the disk when not in use
     *   Avoid scratching the disk in any way as this could lead to data loss
     *   Pickup the disk by the corners when placing into a disk reader
     *   Avoid dust sitting on the disk for long periods of time
     *   Do not put excess weight on top of the disks when storing
-    *   Store in a cool and dry place and in a upright position
     *   Avoid prolonged exposure to light as this could accidentally impact the data on the disk
 *   SSDs and other flash memory
     *   Usually more durable and can withstand accidental drops and most strong temperatures
