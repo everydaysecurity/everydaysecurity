@@ -54,6 +54,10 @@ permalink: /ransomware/
 *   CDs, DVDs, and USB flash drives→ these options are great for holding small amounts of data such as your photos from one or two months
     *   Modern flash drives are rewritable but can sometimes be unreliable
     *   Most CDs and DVDs are write one, meaning once written these data on the medium can’t be changed or modified
+*   Traditional Hard Drives → composed of physical platters (disks) that spin and a read head
+    *   This type of storage device is considered slower and sometimes unreliable due to the possibilty of crashes
+    *   Most hard drives have lower disk capacity than what most modern computers use (<400 GB)
+    *   Good option if you are on a budget and do not need lots of space for files and data
 *   Solid State Disk (SSD) → this means that this method of storage does not require moving parts and utilizes flash technology similar to a USB flash drive
     *   Most SSDs can support high amounts of storage (some over 1 TB)
     *   Due to caching technology SSDs allow for quick access and lightning fast transfer speeds
