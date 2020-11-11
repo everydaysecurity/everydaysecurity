@@ -89,6 +89,16 @@ permalink: /ransomware/
 *   SSDs and other flash memory
     *   Usually more durable and can withstand accidental drops and most strong temperatures
     *   Regardless, make sure that with SSDs especially when transferring data from computer you remember to eject before removing from the USB port
+    
+**Education Use**
+For education use, we also made a [Ransomware and Backups Powerpoint](https://www2.slideshare.net/everydaysecurit/ransomware-and-backups) to help you gain a better understanding the topic.
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6mFH1YVZc_xU8_2Owk06jzsn7dsjpIh5g262vKGt5DTtWQOdGyOvrFJRDdq7SHcj9DFOrCkk7J5Jh/embed" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
 ## Sources
 
