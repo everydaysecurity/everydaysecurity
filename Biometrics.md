@@ -34,7 +34,7 @@ Biometric systems consist of three parts:
 <ul>
 	<li>The sensor: records and reads biometric information for verification of identity</li>
 	<li>The computer: stores information for comparison against stored data</li> 
-	<li>The software: links the computer hardware to the sensor to allow for data to be collected
+	<li>The software: links the computer hardware to the sensor to allow for data to be collected</li>
 </ul>
 
 <h2>Advantages of biometrics</h2>
