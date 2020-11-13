@@ -54,6 +54,7 @@ header_pages:
  - Scams.md
  - StrongPasswords.md
  - Ransomware_And_Backup.md
+ - UpdatingOSandApps.md
 
 # Build settings
 theme: minima
