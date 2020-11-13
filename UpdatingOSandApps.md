@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Updating Operating Systems And Applications
+title: Critical Updates
 permalink: /updatingosapps/
 ---
 ![Computer](/pic/updating.jpg)

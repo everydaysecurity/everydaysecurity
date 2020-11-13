@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biometrics in Security
+title: Biometrics
 permalink: /biometrics/
 ---
 ![Biometrics](/pic/biometrics.jpg)
@@ -27,14 +27,14 @@ According to a poll by the Society for Human Resource Management, 57% of corpora
 <h2>How are biometrics used in security?</h2>
 Biometric data can be used in technology in place of certain security systems. It can also be used to enhance pre-existing security systems on phones, computers, or even buildings. 
 <ul>
-	<li>However, in order to be useful, this data must be permanent and able to be collected.</ul> 
-	<li>This data is encrypted and stored either within the device or on remote servers.</ul>
+	<li>However, in order to be useful, this data must be permanent and able to be collected.</li> 
+	<li>This data is encrypted and stored either within the device or on remote servers</li>
 </ul>
 Biometric systems consist of three parts:
 <ul>
 	<li>The sensor: records and reads biometric information for verification of identity</li>
 	<li>The computer: stores information for comparison against stored data</li> 
-	<li>The software: links the computer hardware to the sensor to allow for data to be collected</li>
+	<li>The software: links the computer hardware to the sensor to allow for data to be collected
 </ul>
 
 <h2>Advantages of biometrics</h2>
