@@ -55,6 +55,7 @@ header_pages:
  - StrongPasswords.md
  - Ransomware_And_Backup.md
  - UpdatingOSandApps.md
+ - Biometrics.md
 
 # Build settings
 theme: minima
