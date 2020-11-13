@@ -138,7 +138,7 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 </div>
 
 <br>
-## Video Presentation(s)
+## Video Presentation
 <div class="responsive-wrap">
 <iframe width="420" height="345" src="https://www.youtube.com/embed/Ws_bj6kLw0g">
 </iframe>
@@ -148,7 +148,7 @@ For education use, we also made a [Scams Powerpoint](https://www.slideshare.net/
 <iframe width="420" height="345" src="https://www.youtube.com/embed/rRojZU_CD3U">
 </iframe>
 </div>
-
+<br>
 <h2>Sources</h2>
 <ul>
 	<li><a href= "https://www.ftc.gov/system/files/documents/reports/consumer-sentinel-network-data-book-2019/consumer_sentinel_network_data_book_2019.pdf">Consumer Sentinel Network Data Book 2019</a></li>
