@@ -43,7 +43,7 @@ Apple:
 There is no excuse, it only takes a few minutes to update your devices to keep them more protected and functional. 
 
 **Education Use**
-For education use, we also made a [Updating OS & Apps](https://www.slideshare.net/everydaysecurit/updating-operating-systems-and-applications) to help better understanding the topic.
+For education use, we also made a [Updating OS & Apps Powerpoint](https://www.slideshare.net/everydaysecurit/updating-operating-systems-and-applications) to help better understanding the topic.
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
