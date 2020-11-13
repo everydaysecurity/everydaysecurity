@@ -81,17 +81,19 @@ It is paramount that you take the proper precautions to keep your data secure.
 	<li>Keep the software on your devices current as it reduces the probability of your device being vulnerable to security flaws.</li>
 	<li>Use two-factor authentication on accounts to add an extra layer of protection onto your accounts (visit our tab "Two Factor Authentication" for more information)</li>
 </ul>
+<br>
 
-**Education Use**
-For education use, we also made a [Biometrics Powerpoint](https://www.slideshare.net/everydaysecurit/biometrics-in-security) to help you gain a better understanding the topic.
+**Education Use** <hr>
+<p>For education use, we also made a ![Biometrics Powerpoint](https://www.slideshare.net/everydaysecurit/biometrics-in-security) to help you gain a better understanding the topic.<p>
 
+<br>
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSXMN_j7u1gxLkN9b9Lfg3ElzALKM-jaBf5m4jKJ620tTlHbYJwIH3v7xsFy1_-eQW7ZPc00MU64Nh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
+<br>
 <h2>Sources</h2>
 <ul>
 	<li><a href="https://www.kaspersky.com/resource-center/definitions/biometrics">https://www.kaspersky.com/resource-center/definitions/biometrics</a></li>
