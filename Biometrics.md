@@ -81,10 +81,9 @@ It is paramount that you take the proper precautions to keep your data secure.
 	<li>Keep the software on your devices current as it reduces the probability of your device being vulnerable to security flaws.</li>
 	<li>Use two-factor authentication on accounts to add an extra layer of protection onto your accounts (visit our tab "Two Factor Authentication" for more information)</li>
 </ul>
-<br>
 
-**Education Use** <hr>
-<p>For education use, we also made a ![Biometrics Powerpoint](https://www.slideshare.net/everydaysecurit/biometrics-in-security) to help you gain a better understanding the topic.<p>
+**Educational Use**
+<p>For educational use, we also made a <a href="https://www.slideshare.net/everydaysecurit/biometrics-in-security">Biometrics Powerpoint</a> to help you gain a better understanding of the topic.<p>
 
 <br>
 <style>
