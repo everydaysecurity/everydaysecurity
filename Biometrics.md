@@ -22,7 +22,7 @@ Common examples of biometrics include:
 	<li>Hand geometry recognition</li>
 </ul>
 Biometrics have become increasingly common. They serve a wide range of uses, from protecting our devices and privacy to helping the Department of Homeland Security keep immigration and trade safe. They have also become extremely popular among employers. 
-According to a poll by the Society for Human Resource Management, 57% of corporate organizations use fingerprint scanners to protect their devices, followed by facial recognition (14%), hand geometry recognition (5%), iris scanning (3%), and voice recognition (2%). 
+<br />According to a poll by the Society for Human Resource Management, 57% of corporate organizations use fingerprint scanners to protect their devices, followed by facial recognition (14%), hand geometry recognition (5%), iris scanning (3%), and voice recognition (2%). 
 
 <h2>How are biometrics used in security?</h2>
 Biometric data can be used in technology in place of certain security systems. It can also be used to enhance pre-existing security systems on phones, computers, or even buildings. 
@@ -55,7 +55,7 @@ Biometric systems consist of three parts:
 		<ul>
 			<li>When Apple introduced Face ID biometrics in the iPhone X, they claimed that the chance of mistaken identity is one in a million. However, some other facial recognition software can be tricked.</li>
 				<ul>
-					<li>Researchers at the University of North Carolina at Chapel Hill conducted an experiment to test five security systems that use facial recognition software. They downloaded photos of 20 volunteers from social media and constructed 3D models of their faces. The researchers were able to breach four out of the five systems.</li>
+					<li>Researchers at the University of North Carolina at Chapel Hill conducted an <a href="https://www.cs.unc.edu/~jtprice/papers/usenix_2016_xu.pdf">experiment</a> to test five security systems that use facial recognition software. They downloaded photos of 20 volunteers from social media and constructed 3D models of their faces. The researchers were able to breach four out of the five systems.</li>
 				</ul>
 			<li>It is also extremely easy to clone fingerprints using just plastic or candle wax. These imprints can then be used to unlock devices.</li>
 		</ul>
@@ -79,7 +79,7 @@ It is paramount that you take the proper precautions to keep your data secure.
 <ul>
 	<li>Use biometrics sparingly to keep your biometric data stored in a few places, and opt out of biometric data collection if you want.</li> 
 	<li>Keep the software on your devices current as it reduces the probability of your device being vulnerable to security flaws.</li>
-	<li>Use two-factor authentication on accounts to add an extra layer of protection onto your accounts (visit our tab "Two Factor Authentication" for more information)</li>
+	<li>Use two-factor authentication on accounts to add an extra layer of protection onto your accounts (visit our <a href="https://everydaysecurity.github.io/everydaysecurity/2FA/">Two Factor Authentication</a> tab for more information)</li>
 </ul>
 
 **Education Use**
