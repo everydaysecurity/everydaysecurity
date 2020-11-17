@@ -40,7 +40,7 @@ For the password manager to be most efficient:
 In the end, hackers rely on the human instinct to guess passwords, so it’s up to you to be unpredictable and to protect your precious information.
 
 **Education Use**
-For education use, we also made a [Strong Passwords](https://www.slideshare.net/everydaysecurit/strong-passwords-238711358) to help better understanding the topic.
+For education use, we also made a [Strong Passwords Powerpoint](https://www.slideshare.net/everydaysecurit/strong-passwords-238711358) to help better understanding the topic.
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biometrics in Security
+title: Biometrics
 permalink: /biometrics/
 ---
 ![Biometrics](/pic/biometrics.jpg)
@@ -27,8 +27,8 @@ Biometrics have become increasingly common. They serve a wide range of uses, fro
 <h2>How are biometrics used in security?</h2>
 Biometric data can be used in technology in place of certain security systems. It can also be used to enhance pre-existing security systems on phones, computers, or even buildings. 
 <ul>
-	<li>However, in order to be useful, this data must be permanent and able to be collected.</ul> 
-	<li>This data is encrypted and stored either within the device or on remote servers.</ul>
+	<li>However, in order to be useful, this data must be permanent and able to be collected.</li> 
+	<li>This data is encrypted and stored either within the device or on remote servers</li>
 </ul>
 Biometric systems consist of three parts:
 <ul>
@@ -82,16 +82,17 @@ It is paramount that you take the proper precautions to keep your data secure.
 	<li>Use two-factor authentication on accounts to add an extra layer of protection onto your accounts (visit our <a href="https://everydaysecurity.github.io/everydaysecurity/2FA/">Two Factor Authentication</a> tab for more information)</li>
 </ul>
 
-**Education Use**
-For education use, we also made a [Biometrics Powerpoint](https://www.slideshare.net/everydaysecurit/biometrics-in-security) to help you gain a better understanding the topic.
+**Educational Use**
+<p>For educational use, we also made a <a href="https://www.slideshare.net/everydaysecurit/biometrics-in-security">Biometrics Powerpoint</a> to help you gain a better understanding of the topic.<p>
 
+<br>
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSXMN_j7u1gxLkN9b9Lfg3ElzALKM-jaBf5m4jKJ620tTlHbYJwIH3v7xsFy1_-eQW7ZPc00MU64Nh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-
+<br>
 <h2>Sources</h2>
 <ul>
 	<li><a href="https://www.kaspersky.com/resource-center/definitions/biometrics">https://www.kaspersky.com/resource-center/definitions/biometrics</a></li>
