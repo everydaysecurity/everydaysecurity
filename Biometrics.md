@@ -22,7 +22,8 @@ Common examples of biometrics include:
 	<li>Hand geometry recognition</li>
 </ul>
 Biometrics have become increasingly common. They serve a wide range of uses, from protecting our devices and privacy to helping the Department of Homeland Security keep immigration and trade safe. They have also become extremely popular among employers. 
-<br />According to a poll by the Society for Human Resource Management, 57% of corporate organizations use fingerprint scanners to protect their devices, followed by facial recognition (14%), hand geometry recognition (5%), iris scanning (3%), and voice recognition (2%). 
+<br>
+According to a poll by the Society for Human Resource Management, 57% of corporate organizations use fingerprint scanners to protect their devices, followed by facial recognition (14%), hand geometry recognition (5%), iris scanning (3%), and voice recognition (2%). 
 
 <h2>How are biometrics used in security?</h2>
 Biometric data can be used in technology in place of certain security systems. It can also be used to enhance pre-existing security systems on phones, computers, or even buildings. 
