@@ -29,6 +29,13 @@ Apple:
 - Click on “Software Update”
 - Turn on “Install IOS Updates” under “Automatic Updates”
 
+Windows 10 is set by default to update your operating system automatically. But it is a good idea to check if it is turned on.
+Windows 10:
+- Select the "Windows" icon on the bottom left of your screen
+- Click on the "Settings" icon
+- Go to "Update & Security"
+- If it says "You're up to date" then you do not have to click on "Check for updates"
+
 <h2>Automatically Updating Apps</h2>
 Android:
 - Open the “Google Play Store” app
@@ -39,6 +46,11 @@ Apple:
 - Go to “Settings”
 - Click on “iTunes & App Stores”
 - Enable “App Updates” under the “Automatic Downloads” section
+
+Windows 10:
+- Select the "Windows" icon on the bottom left of your screen
+- Go to the Microsoft Store, click on the three dots in the upper right corner and select "Settings"
+- Go to "App updates" and set "Update apps automatically" to On
 
 There is no excuse, it only takes a few minutes to update your devices to keep them more protected and functional. 
 
