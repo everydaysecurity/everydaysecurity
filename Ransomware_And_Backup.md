@@ -100,6 +100,13 @@ For education use, we also made a [Ransomware and Backups Powerpoint](https://ww
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6mFH1YVZc_xU8_2Owk06jzsn7dsjpIh5g262vKGt5DTtWQOdGyOvrFJRDdq7SHcj9DFOrCkk7J5Jh/embed" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
+<br>
+## Video Presentation
+<div class="responsive-wrap">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/qp3Tb62C1EM">
+</iframe>
+</div>
+
 ## Sources
 
 *   [https://www.csoonline.com/article/3236183/what-is-ransomware-how-it-works-and-how-to-remove-it.html](https://www.csoonline.com/article/3236183/what-is-ransomware-how-it-works-and-how-to-remove-it.html)
